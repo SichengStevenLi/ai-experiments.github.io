@@ -53,6 +53,6 @@ Thus, it would be much more powerful to run LLMs on iGPUs than CPUs, which are o
 
 ## Next Step
 
-Moving forward, I will dive into my hands-on experience with running two versions of Mistral 7B, a LLM, on an iGPU using `IPEX-LLM`. 
+Next, I will share my hands-on experience of running two versions of the `Mistral 7B` language model on an iGPU using `IPEX-LLM`.
 
 Stay tuned for Part 2, where I will share the initial results and analysis for running these models on a local setup, including performance metrics and practical insights.
