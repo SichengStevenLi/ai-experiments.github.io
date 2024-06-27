@@ -1,6 +1,8 @@
 # Exploring AI: Running Large Language Models on Laptop Using `IPEX-LLM` (Part 1: Introduction and GPU Basics)
 
-![LLM Diagram](https://drive.google.com/file/d/1h5g6FSH9gg8d-XONsfwa1K1-eLhSxkp-/view?usp=sharing)
+<a href="https://drive.google.com/uc?export=view&id=1h5g6FSH9gg8d-XONsfwa1K1-eLhSxkp-" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=1h5g6FSH9gg8d-XONsfwa1K1-eLhSxkp-" width="100%" />
+</a>
 
 I've been using ChatGPT for a while and have tried other cloud-based LLM chat services. I'm curious if open-source local models can perform as well as subscribed services. This way, I wouldn't have to worry about sharing private secrets with chat services or paying recurring subscription fees. 
 
