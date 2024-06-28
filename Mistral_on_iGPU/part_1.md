@@ -4,7 +4,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1h5g6FSH9gg8d-XONsfwa1K1-eLhSxkp-" width="100%" />
 </a>
 
-I've been using ChatGPT for a while and have tried other cloud-based LLM chat services. I'm curious if open-source local models can perform as well as subscribed services. This way, I wouldn't have to worry about sharing private secrets with chat services or paying recurring subscription fees. 
+I've been using ChatGPT for a while and have tried other cloud-based LLM chat services. I'm curious if open-source local models can perform as well as subscribed services. This way, I wouldn't have to worry about sharing private secrets with chat services. 
 
 I discovered a way to run large language models using a completely local setup. This means I use open-source models, no hosted APIs, and everything runs on my laptop without internet access.
 
@@ -53,6 +53,6 @@ Thus, it would be much more powerful to run LLMs on iGPUs than CPUs, which are o
 
 ## Next Step
 
-Next, I will share my hands-on experience of running two versions of the `Mistral 7B` language model on an iGPU using `IPEX-LLM`.
+Next, I set my eyes on `Mistral 7B`, a highly optimized, open-source large language model designed for efficient natural language processing tasks. I will be running two versions of the `Mistral 7B` language model on an iGPU using `IPEX-LLM` and documenting my hands-on experience.
 
-Stay tuned for Part 2, where I will share the initial results and analysis for running these models on a local setup, including performance metrics and practical insights.
+Stay tuned for Part 2, where I will present the initial results and analysis for running these models on a local setup, including performance metrics and practical insights.
