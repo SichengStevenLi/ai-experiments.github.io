@@ -1,10 +1,7 @@
-# Exploring AI: Running Large Language Models on Laptop
+# Exploring AI: Running Large Language Models on Laptop Using IPEX-LLM (Part 3: Tips for Your Local AI Journey)
 <a href="https://drive.google.com/uc?export=view&id=1oVh-rTrgr0IG_dXSHl3XylzAMcIoEnH4" target="_blank">
   <img src="https://drive.google.com/uc?export=view&id=1oVh-rTrgr0IG_dXSHl3XylzAMcIoEnH4" width="100%" />
 </a>
-
-
-## Using IPEX-LLM (Part 3: Tips for Your Local AI Journey)
 
 Welcome to the third part of my blog series on running large language models (LLMs) using a completely local setup with IPEX-LLM. In Part 1, we explored the basics of GPUs and iGPUs and their significance in running LLMs efficiently. In Part 2, I shared my hands-on experience with running Mistral 7B on an iGPU, including initial results and performance analysis. Building on the knowledge and insights from the previous parts, this blog will cover some of the roadblocks I faced and their solutions. I hope you will find this helpful in optimizing your local AI setup and overcoming common challenges.
 
