@@ -23,22 +23,23 @@ Despite running on iGPU, the response time was quicker than the language models 
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://drive.google.com/uc?export=view&id=1riPRwl3iw6d8JqG6R-SennyutZVWm7wO" target="_blank">
-        <img src="https://drive.google.com/uc?export=view&id=1riPRwl3iw6d8JqG6R-SennyutZVWm7wO" width="300px" />
+        <img src="https://drive.google.com/uc?export=view&id=1riPRwl3iw6d8JqG6R-SennyutZVWm7wO" width="95%" />
       </a>
       <br />
       <strong>Mistral Q4_0</strong>: Achieved 62 ms/token
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://drive.google.com/uc?export=view&id=1riPRwl3iw6d8JqG6R-SennyutZVWm7wO" target="_blank">
-        <img src="https://drive.google.com/uc?export=view&id=1riPRwl3iw6d8JqG6R-SennyutZVWm7wO" width="300px" />
+        <img src="https://drive.google.com/uc?export=view&id=1riPRwl3iw6d8JqG6R-SennyutZVWm7wO" width="95%" />
       </a>
       <br />
       <strong>Mistral Q4_K_M</strong>: Achieved 82 ms/token
     </td>
   </tr>
 </table>
+
 
 There was no significant difference in terms of performance for both models, as the average GPU utilization hovered around 95%, showcasing remarkable efficiency on the iGPU. This is significant compared to traditional reliance on powerful, dedicated GPUs or cloud resources.
 
