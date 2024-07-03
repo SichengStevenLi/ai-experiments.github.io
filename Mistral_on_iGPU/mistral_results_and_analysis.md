@@ -43,26 +43,15 @@ Despite running on iGPU, the response time was quicker than the language models 
 
 There was no significant difference in terms of performance for both models, as the average GPU utilization hovered around 95%, showcasing remarkable efficiency on the iGPU. This is significant compared to traditional reliance on powerful, dedicated GPUs or cloud resources.
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1LPK8qvRyT_v3xHq7NKsM1kuyMPv8YwAw/view?usp=sharing" target="_blank">
-        <img src="https://drive.google.com/uc?export=view&id=1XmfhK_K2uyITt_eLfj2PdNHeRg-_UT4C" width="95%" />
-      </a>
-      <br />
-      <strong>GPU usage for Mistral Q4_0</strong>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1XmfhK_K2uyITt_eLfj2PdNHeRg-_UT4C/view?usp=sharing" target="_blank">
-        <img src="https://drive.google.com/uc?export=view&id=1LPK8qvRyT_v3xHq7NKsM1kuyMPv8YwAw" width="95%" />
-      </a>
-      <br />
-      <strong>GPU usage for Mistral Q4_K_M</strong>
-    </td>
-  </tr>
-</table>
+<a href="https://drive.google.com/file/d/1LPK8qvRyT_v3xHq7NKsM1kuyMPv8YwAw/view?usp=sharing" target="_blank">
+        <img src="https://drive.google.com/uc?export=view&id=1XmfhK_K2uyITt_eLfj2PdNHeRg-_UT4C" width="100%" />
+</a>
+<p><strong>GPU usage for Mistral Q4_0</strong></p>
 
-
+<a href="https://drive.google.com/file/d/1XmfhK_K2uyITt_eLfj2PdNHeRg-_UT4C/view?usp=sharing" target="_blank">
+        <img src="https://drive.google.com/uc?export=view&id=1LPK8qvRyT_v3xHq7NKsM1kuyMPv8YwAw" width="100%" />
+</a>
+<p><strong>GPU usage for Mistral Q4_0</strong><p>
 
 
 ## Why Local AI with iGPUs Matters
