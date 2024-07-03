@@ -45,22 +45,23 @@ There was no significant difference in terms of performance for both models, as 
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1LPK8qvRyT_v3xHq7NKsM1kuyMPv8YwAw/view?usp=sharing" target="_blank">
-        <img src="https://drive.google.com/uc?export=view&id=1XmfhK_K2uyITt_eLfj2PdNHeRg-_UT4C" width="300px" />
+        <img src="https://drive.google.com/uc?export=view&id=1XmfhK_K2uyITt_eLfj2PdNHeRg-_UT4C" width="95%" />
       </a>
       <br />
       <strong>GPU usage for Mistral Q4_0</strong>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1XmfhK_K2uyITt_eLfj2PdNHeRg-_UT4C/view?usp=sharing" target="_blank">
-        <img src="https://drive.google.com/uc?export=view&id=1LPK8qvRyT_v3xHq7NKsM1kuyMPv8YwAw" width="300px" />
+        <img src="https://drive.google.com/uc?export=view&id=1LPK8qvRyT_v3xHq7NKsM1kuyMPv8YwAw" width="95%" />
       </a>
       <br />
       <strong>GPU usage for Mistral Q4_K_M</strong>
     </td>
   </tr>
 </table>
+
 
 
 
